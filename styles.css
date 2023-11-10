@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-    color: #c81aa8;;
+    color: #2e2a2a;;
 }
 :root {
     --cinza: #aaa;
@@ -21,7 +21,7 @@ p {
   
   body {
     align-items: center;
-    background: linear-gradient(45deg, #a7cfdf 0%,#a555a6 100%);
+    background: linear-gradient(45deg, #a7cfdf 0%,#131213 100%);
     display: flex;
     justify-content: center;
     flex-direction: column;
